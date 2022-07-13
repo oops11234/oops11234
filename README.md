@@ -8,4 +8,4 @@ The tech including
 + CSS
 + JaveScript
 + Vue.js
-+ Learning React and web3 skill now , if you love it, friendly and welcome to discuss with me :)
+Learning React and web3 skill now , if you love it, friendly and welcome to discuss with me :)
