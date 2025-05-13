@@ -11,3 +11,6 @@ The tech including
 + CSS
 + JaveScript
 + Vue.js
++ React.js
++ Solidity
++ 
