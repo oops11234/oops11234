@@ -1,4 +1,4 @@
-## Hi This is Rick welcome tp my gitHub  
+## Hi This is Rick welcome to my gitHub  
 
 Embracing the new tech and do the thing with easy way is my Object.
 Learning React and web3 skill now , if you love it, friendly and welcome to discuss with me :)
